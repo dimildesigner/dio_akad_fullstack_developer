@@ -24,5 +24,6 @@ Integração de Front-end com Consumo de APIs.
 Implementação de IA no fluxo de desenvolvimento (GitHub Copilot).
 Engenharia de Prompts para automação e produtividade.
 
--------------------------------
+---
+
 Este repositório serve como documentação do meu processo de evolução técnica na área de TI.
