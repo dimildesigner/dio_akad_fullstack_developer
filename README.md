@@ -1,4 +1,4 @@
-# dio_akad_fullstack_developer
+# DIO | Akad - Fullstack Developer
 Bootcamp Fullstack & IA (.NET + React) - DIO & Akad
 Este repositório contém o registro técnico de todos os projetos, desafios de código e exercícios práticos desenvolvidos durante o Bootcamp Fullstack & IA. O foco principal é a construção de aplicações ponta a ponta utilizando o ecossistema .NET para o backend e React para o front-end, potencializados por ferramentas de Inteligência Artificial.
 
